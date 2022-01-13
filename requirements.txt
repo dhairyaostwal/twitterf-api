@@ -1,7 +1,7 @@
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-anaconda-client==1.7.2
-anaconda-navigator==2.0.3
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
+# anaconda-client==1.7.2
+# anaconda-navigator==2.0.3
+# anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
 anyio @ file:///opt/concourse/worker/volumes/live/64740ac7-3a9c-4fbb-6685-a51c4ff8b4ca/volume/anyio_1617783319350/work/dist
 appdirs==1.4.4
 applaunchservices==0.2.1
@@ -38,13 +38,13 @@ click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-conda==4.10.1
-conda-build==3.21.4
-conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/73497069-9b43-4ad9-50ec-1abb340e14eb/volume/conda-package-handling_1618262140058/work
-conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
-conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
-conda-verify==3.4.2
+# conda==4.10.1
+# conda-build==3.21.4
+# conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+# conda-package-handling @ file:///opt/concourse/worker/volumes/live/73497069-9b43-4ad9-50ec-1abb340e14eb/volume/conda-package-handling_1618262140058/work
+# conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+# conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+# conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography @ file:///opt/concourse/worker/volumes/live/c515855a-effc-46df-74dc-542901b701da/volume/cryptography_1616769282442/work
 cycler==0.10.0
@@ -196,7 +196,7 @@ regex @ file:///opt/concourse/worker/volumes/live/e81f6b8c-e3b5-481b-6b5d-4fa8d9
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 Rtree @ file:///opt/concourse/worker/volumes/live/7b97d6e1-aeee-4f6d-418c-32be5bbd5ed3/volume/rtree_1618420839839/work
-ruamel-yaml-conda @ file:///opt/concourse/worker/volumes/live/53b096c9-f5b7-4029-7f1b-056927554e08/volume/ruamel_yaml_1616016691174/work
+# ruamel-yaml-conda @ file:///opt/concourse/worker/volumes/live/53b096c9-f5b7-4029-7f1b-056927554e08/volume/ruamel_yaml_1616016691174/work
 scikit-image==0.18.1
 scikit-learn==0.20.3
 scipy @ file:///opt/concourse/worker/volumes/live/7d10d993-3825-404e-6e5d-9947c19e8c6d/volume/scipy_1618855951189/work
