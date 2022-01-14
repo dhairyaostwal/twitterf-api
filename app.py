@@ -35,7 +35,7 @@ def index():
 def page_not_found(e):    
     return render_template("404error.html"),404
 
-@app.route('/predict')
+@app.route('/predict', methods=['GET'])
 def query_example():
     
     username = request.args.get('username')
